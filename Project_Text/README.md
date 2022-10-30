@@ -14,4 +14,4 @@
 
 ## Используемые библиотеки
 
-Pandas, nltk, tf-idf
+Pandas, nltk, tf-idf, pymystem3, sklearn
